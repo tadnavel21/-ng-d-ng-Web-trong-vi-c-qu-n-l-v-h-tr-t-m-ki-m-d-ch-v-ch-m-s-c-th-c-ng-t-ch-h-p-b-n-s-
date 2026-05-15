@@ -32,7 +32,7 @@
 *  **Mục tiêu:** Đóng gói sản phẩm hoàn chỉnh để bàn giao.
 
 ## 3. Công nghệ sử dụng (Tech Stack)
-*  **Frontend:** ReactJS / Tailwind CSS[cite: 89].
-*  **Backend:** NodeJS (Express)[cite: 90].
-*  **Database:** MySQL[cite: 90].
-*  **API:** Google Maps API[cite: 91].
+*  **Frontend:** ReactJS / Tailwind CSS.
+*  **Backend:** NodeJS (Express).
+*  **Database:** MySQL.
+*  **API:** Google Maps API.
